@@ -1,0 +1,21 @@
+{
+    "dataset_records": 17508,
+    "training_records": 14006,
+    "testing_records": 3502,
+    "random_state": 42,
+    "test_size": 0.2,
+    "accuracy": 0.9837235865219874,
+    "precision_phishing": 0.9742033383915023,
+    "recall_phishing": 0.9824024483550114,
+    "f1_phishing": 0.9782857142857143,
+    "confusion_matrix": [
+        [
+            2161,
+            34
+        ],
+        [
+            23,
+            1284
+        ]
+    ]
+}
